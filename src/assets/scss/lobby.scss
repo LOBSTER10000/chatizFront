@@ -1,0 +1,23 @@
+.wa_lobby__container{
+    width: 100vw;
+    height: 82.5vh;
+
+    section {
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+
+        .wa_lobby__chat{
+            width: 90vw;
+            height: 40vh;
+            background-color: #81afec;
+        }
+        .wa_lobby__game{
+            width: 90vw;
+            height: 40vh;
+            background-color: #81afec;
+        }
+    }
+}
