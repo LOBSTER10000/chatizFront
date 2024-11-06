@@ -23,7 +23,7 @@ const FeedbackContainer : React.FC = ()=>{
         <>
          <div className='wa_feedback__container'>
             <section>
-                <div className='wa_feeback__box'>
+                <div className='wa_feedback__box'>
         
                 </div>
                 

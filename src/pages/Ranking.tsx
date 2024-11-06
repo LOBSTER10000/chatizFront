@@ -1,7 +1,7 @@
 import React from 'react';
-import Header from '../components/header/Header.tsx';
+import Header from '../shared/header/Header.tsx';
 import RankingContainer from '../feature/ranking/components/RankingContainer.tsx';
-import Footer from '../components/footer/Footer.tsx';
+import Footer from '../shared/footer/Footer.tsx';
 
 
 const Ranking : React.FC = ()=>{

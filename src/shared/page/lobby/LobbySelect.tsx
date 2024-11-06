@@ -1,12 +1,12 @@
 import React from 'react';
 import './lobbySelect.scss';
 
-interface lobbys {
+interface lobby {
     label  : string,
     content  : string,
 }
 
-const LobbySelect : React.FC<lobbys> = ({label, content} : lobbys)=>{
+const LobbySelect : React.FC<lobby> = ({label, content} : lobby)=>{
        
     if(label === '왁자지껄방'){
         return (

@@ -1,7 +1,16 @@
-.wa_feeback__success {
+.wa_feedback__success {
     width: 100vw;
     height: 82.5vh;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 
+
+    img {
+        width: 50%;
+    }
     div {
         text-align: center;    
     }
