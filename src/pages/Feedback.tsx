@@ -1,10 +1,10 @@
 import React from 'react';
-import Header from '../components/ui/Header.tsx';
-import FeedbackContainer from '../components/page/FeedbackContainer.tsx';
-import Footer from '../components/ui/Footer.tsx';
+import FeedbackContainer from '../feature/feedback/components/FeedbackContainer.tsx';
+import Header from '../components/header/Header.tsx';
+import Footer from '../components/footer/Footer.tsx';
 
 
-export default function Feedback(){
+const Feedback : React.FC = ()=>{
     
     return (
         <>
@@ -14,3 +14,5 @@ export default function Feedback(){
         </>
     )
 }
+
+export default Feedback;

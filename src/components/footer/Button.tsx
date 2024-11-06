@@ -1,7 +1,13 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-export default function Button({label, to, naming}){
+interface ButtonProps {
+    label : string,
+    to : string,
+    naming : string,
+}
+
+export default function Button({label, to, naming} : ButtonProps){
 
     return (
         <>

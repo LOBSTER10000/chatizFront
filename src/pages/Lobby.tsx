@@ -1,9 +1,10 @@
 import React from 'react';
-import Header from '../components/ui/Header.tsx';
-import LobbyContainer from '../components/page/LobbyContainer.tsx';
-import Footer from '../components/ui/Footer.tsx';
+import Header from '../components/header/Header.tsx';
+import LobbyContainer from '../components/page/lobby/LobbyContainer.tsx';
+import Footer from '../components/footer/Footer.tsx';
 
-export default function Lobby(){
+
+const Lobby : React.FC = ()=>{
 
     return (
         <>
@@ -13,3 +14,5 @@ export default function Lobby(){
         </>
     )
 }
+
+export default Lobby;

@@ -1,9 +1,10 @@
 import React from 'react';
-import Header from '../components/ui/Header.tsx';
-import RankingContainer from '../components/page/RankingContainer.tsx';
-import Footer from '../components/ui/Footer.tsx';
+import Header from '../components/header/Header.tsx';
+import RankingContainer from '../feature/ranking/components/RankingContainer.tsx';
+import Footer from '../components/footer/Footer.tsx';
 
-export default function Ranking(){
+
+const Ranking : React.FC = ()=>{
 
     return(
         <>
@@ -13,3 +14,5 @@ export default function Ranking(){
         </>
     )
 }
+
+export default Ranking;

@@ -1,0 +1,21 @@
+{
+        "buttons": {
+            "home": {
+                "label": "home",
+                "naming": "홈"
+            },
+            "lobby": {
+                "label": "lobby",
+                "naming": "로비"
+            },
+            "ranking": {
+                "label": "ranking",
+                "naming": "랭킹"
+            },
+            "feedback": {
+                "label": "feedback",
+                "naming": "피드백"
+            }
+        }
+    
+}

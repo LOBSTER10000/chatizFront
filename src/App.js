@@ -1,4 +1,4 @@
-import './assets/scss/main.scss';
+import './components/page/home/main.scss';
 import { Route, Routes } from 'react-router-dom';
 import Main from './pages/Main.tsx';
 import Feedback from './pages/Feedback.tsx';

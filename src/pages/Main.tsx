@@ -1,15 +1,17 @@
 import React from 'react';
-import Header from '../components/ui/Header.tsx';
-import Footer from '../components/ui/Footer.tsx';
-import Home from '../components/page/Home.tsx';
-export default function Main(){
+import Home from '../components/page/home/HomeContainer.tsx';
+import Header from '../components/header/Header.tsx';
+import Footer from '../components/footer/Footer.tsx';
 
 
+const Main : React.FC = ()=>{
     return (
         <>
-        <Header/>
-        <Home />
-        <Footer/>
+         <Header />
+         <Home />
+         <Footer />
         </>
     )
 }
+
+export default Main;

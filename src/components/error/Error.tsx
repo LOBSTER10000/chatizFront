@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Login : React.FC = () => {
+const Error = ()=>{
     return(
         <>
-          
+        
         </>
     )
 }
 
-export default Login;
+export default Error;
