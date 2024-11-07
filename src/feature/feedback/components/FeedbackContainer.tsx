@@ -1,20 +1,20 @@
 import React, { useEffect, useState } from 'react';
 import './feedback.scss';
-import Success from './Success.tsx';
+import QuizContainer from '../../quiz/components/QuizContainer.tsx';
 
 
 const FeedbackContainer : React.FC = ()=>{
     const [success, setSuccess] = useState(false);
 
     useEffect(()=>{
-        setSuccess(false);
+        setSuccess(true);
     }, []);
 
 
     if(success){
         return (
             <>
-            <Success/>
+            <QuizContainer/>
             </>
         )
     }
