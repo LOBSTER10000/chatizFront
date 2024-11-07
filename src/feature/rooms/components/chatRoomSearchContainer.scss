@@ -1,0 +1,26 @@
+.wa_chatRoom__search {
+    width: 100vw;
+    height: 82.5vh;
+
+    .wa_chatRoom__box {
+        display: flex;
+        flex-direction: column;
+        height: 100%; 
+        overflow: scroll;
+        align-items: center;
+
+        .wa_chatRoom__title {
+            width: 100%;
+            text-align: center;
+            
+        }
+
+        .wa_chatRoom__features {
+            width: 100%;
+            text-align: center;
+            display: flex;
+            justify-content: space-around;
+            margin-bottom: 5%;
+        }
+    }
+}

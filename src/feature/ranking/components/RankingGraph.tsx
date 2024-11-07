@@ -1,5 +1,7 @@
 import React from 'react';
 import RankingType from '../types/RankingType.tsx';
+import ProfileImgSm from '../../user/components/ProfileImgSm.tsx';
+import './rankingGraph.scss';
 
 interface GraphProps {
     others : RankingType[];
@@ -14,9 +16,11 @@ const RankingGraph : React.FC<GraphProps> = ({others})=>{
                 <tbody>
                 {others.map((item)=>(
                     item.number > 3 ?
-                    <tr key={item.number} className='wa_ranking_tr'>
+                    <tr key={item.number} className='wa_ranking__tr'>
                         <td>{item.number}</td>
-                        <td id="othersImgTR"><img src={item.icon} alt="dd" id='othersImg'/></td>
+                        <td id="othersImgTR">
+                            <ProfileImgSm/>
+                        </td>
                         <td>{item.username}</td>
                         <td>{item.point}</td>
                     </tr>

@@ -1,0 +1,15 @@
+{
+    "kr" : {
+        "title" : "왁자지껄 방",
+        "search" : "검색",
+        "create" : "방 만들기",
+        "sort" : "정렬"
+    },
+
+    "en" : {
+        "title" : "title",
+        "search" : "search",
+        "create" : "create",
+        "sort" : "sort"
+    }
+}

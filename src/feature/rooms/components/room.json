@@ -1,0 +1,145 @@
+{
+    "chat": [
+        {
+            "number": 1,
+            "title": "모두 다 이 방으로 모여주세요",
+            "population": 6,
+            "creater": "lobster100",
+            "password": false
+        },
+        {
+            "number": 2,
+            "title": "오늘의 주제 토론방",
+            "population": 4,
+            "creater": "sunflower88",
+            "password": true
+        },
+        {
+            "number": 3,
+            "title": "개발자 모임",
+            "population": 8,
+            "creater": "devMaster42",
+            "password": false
+        },
+        {
+            "number": 4,
+            "title": "영화 감상 후 토론",
+            "population": 10,
+            "creater": "cinemaFan",
+            "password": true
+        },
+        {
+            "number": 5,
+            "title": "여행 계획 세우기",
+            "population": 5,
+            "creater": "wanderlust01",
+            "password": false
+        },
+        {
+            "number": 6,
+            "title": "음악 추천방",
+            "population": 7,
+            "creater": "melodyMaker",
+            "password": false
+        },
+        {
+            "number": 7,
+            "title": "보드게임 친구 찾기",
+            "population": 3,
+            "creater": "boardKing",
+            "password": true
+        },
+        {
+            "number": 8,
+            "title": "오늘의 명언 공유",
+            "population": 2,
+            "creater": "wiseOwl",
+            "password": false
+        },
+        {
+            "number": 9,
+            "title": "스포츠 경기 분석",
+            "population": 9,
+            "creater": "sportsGuru",
+            "password": false
+        },
+        {
+            "number": 10,
+            "title": "저녁 메뉴 추천방",
+            "population": 4,
+            "creater": "foodieLover",
+            "password": true
+        },
+        {
+            "number": 11,
+            "title": "새 책 추천",
+            "population": 12,
+            "creater": "bookworm100",
+            "password": false
+        },
+        {
+            "number": 12,
+            "title": "온라인 게임 동호회",
+            "population": 6,
+            "creater": "gamerX",
+            "password": true
+        },
+        {
+            "number": 13,
+            "title": "언어 교환 그룹",
+            "population": 3,
+            "creater": "polyglot99",
+            "password": false
+        },
+        {
+            "number": 14,
+            "title": "코딩 챌린지",
+            "population": 5,
+            "creater": "codeWarrior",
+            "password": true
+        },
+        {
+            "number": 15,
+            "title": "요리 레시피 공유",
+            "population": 7,
+            "creater": "chefHats",
+            "password": false
+        },
+        {
+            "number": 16,
+            "title": "스터디 그룹 - 데이터 분석",
+            "population": 4,
+            "creater": "dataQueen",
+            "password": true
+        },
+        {
+            "number": 17,
+            "title": "일상 수다방",
+            "population": 15,
+            "creater": "chattyCat",
+            "password": false
+        },
+        {
+            "number": 18,
+            "title": "운동 챌린지",
+            "population": 10,
+            "creater": "fitLife",
+            "password": true
+        },
+        {
+            "number": 19,
+            "title": "취미 사진 공유",
+            "population": 5,
+            "creater": "photoLover",
+            "password": false
+        },
+        {
+            "number": 20,
+            "title": "가상 여행 투어",
+            "population": 8,
+            "creater": "travelBug",
+            "password": true
+        }
+    ],
+    "quiz": []
+}

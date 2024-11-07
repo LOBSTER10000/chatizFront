@@ -19,15 +19,15 @@
             display: flex;
             align-items: center;
             justify-content: center;
-            box-shadow: 0px 0.4rem 0.8rem rgba(0, 0, 0, 0.1);
+            box-shadow: 0.1rem 0.1rem 0.1rem 0.1rem rgba(0,0,0,0.75);
 
             &:hover {
-                box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+                box-shadow: 0.1rem 0.1rem 0.1rem 0.1rem rgba(0,0,0,0.75);
             }
         
             &:active {
                 transform: scale(0.95); 
-                box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+                box-shadow: 0.1rem 0.1rem 0.1rem 0.1rem rgba(0,0,0,0.75);
             }
             
             a {
