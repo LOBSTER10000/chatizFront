@@ -8,27 +8,27 @@
         height: 25vh;
         background-color: bisque;
         border: 2px solid black;
-        box-shadow: 0.1rem 0.1rem 0.1rem 0.1rem rgba(0,0,0,0.75);
+        box-shadow: 0.2rem 0.2rem 0.2rem 0.2rem rgba(0,0,0,0.75);
         margin: 0 auto;
         margin-top: 1rem;
         margin-bottom : 1rem;
 
         &:hover {
-            box-shadow: 0.1rem 0.1rem 0.1rem 0.1rem rgba(0,0,0,0.75);
+            box-shadow: 0.2rem 0.2rem 0.2rem 0.2rem rgba(0,0,0,0.75);
         }
     
         &:active {
             transform: scale(0.95); 
-            box-shadow: 0.1rem 0.1rem 0.1rem 0.1rem rgba(0,0,0,0.75);
+            box-shadow: 0.2rem 0.2rem 0.2rem 0.2rem rgba(0,0,0,0.75);
         }
     
         .wa_card__img {
-            width: 5.5rem;
-            height: 5.5rem;
+            width: 4rem;
+            height: 4rem;
             border-radius: 50%;
             overflow: hidden;
             border: 1px solid black;
-            box-shadow: 0.1rem 0.1rem 0.1rem 0.1rem rgba(0,0,0,0.75);
+            box-shadow: 0.2rem 0.2rem 0.2rem 0.2rem rgba(0,0,0,0.75);
             margin: 0.5rem;
 
             img {
@@ -54,27 +54,27 @@
         height: 25vh;
         background-color: #81afec;
         border: 2px solid black;
-        box-shadow: 0.1rem 0.1rem 0.1rem 0.1rem rgba(0,0,0,0.75);
+        box-shadow: 0.2rem 0.2rem 0.2rem 0.2rem rgba(0,0,0,0.75);
         margin: 0 auto;
         margin-top: 1rem;
         margin-bottom : 1rem;
 
         &:hover {
-            box-shadow: 0.1rem 0.1rem 0.1rem 0.1rem rgba(0,0,0,0.75);
+            box-shadow: 0.2rem 0.2rem 0.2rem 0.2rem rgba(0,0,0,0.75);
         }
     
         &:active {
             transform: scale(0.95); 
-            box-shadow: 0.1rem 0.1rem 0.1rem 0.1rem rgba(0,0,0,0.75);
+            box-shadow: 0.2rem 0.2rem 0.2rem 0.2rem rgba(0,0,0,0.75);
         }
     
         .wa_card__img {
-            width: 5.5rem;
-            height: 5.5rem;
+            width: 4rem;
+            height: 4rem;
             border-radius: 50%;
             overflow: hidden;
             border: 1px solid black;
-            box-shadow: 0.1rem 0.1rem 0.1rem 0.1rem rgba(0,0,0,0.75);
+            box-shadow: 0.2rem 0.2rem 0.2rem 0.2rem rgba(0,0,0,0.75);
             margin: 0.5rem;
 
             img {
